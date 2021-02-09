@@ -49,7 +49,7 @@
                 </div>
                 <div class="float-right col-md-6">
                     <?php
-                        /*declaro un array multidimencional para los productos, que almacen en
+                        /*declaro un array multidimencional para los productos, que almacenara en
                             0     SKU
                             1     cantidad de veces comprado
                             2     array de fecha en la que se compro
